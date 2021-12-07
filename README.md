@@ -1,9 +1,11 @@
-- 👋 Hi, I’m Samson
+- 👋 Hi, I’m Samson, Systems Engineer at Infosys Ltd.
+- 👨‍💻 Working as ABAP Consultant at TotalEnergies SE
 - 👀 Learning and timelining my work here
-- 🌱 I’m currently practicing UI designing and frontend programming
-- 📫 How to reach me --> Add me on linkedin.com/in/samsonshukla
+- 🌱 My new Tech interest : UI designing and frontend programming
+- 🤷‍♂️ Post work you can find me tweeting @SamsonShukla and learning about Crypto projects
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/samsonshukla/) | [Twitter](https://twitter.com/samsonshukla) | [Instagram](https://www.instagram.com/samsonshukla/)
 
 <!---
-0x02f/0x02f is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+samson-shukla/Samson-Shukla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
