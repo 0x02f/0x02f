@@ -2,7 +2,7 @@
 - 👨‍💻 Working as ABAP Consultant at TotalEnergies SE
 - 👀 Learning and timelining my work here
 - 🌱 My new Tech interest : UI designing and frontend programming
-- 🤷‍♂️ Post work you can find me tweeting @SamsonShukla and learning about Crypto projects
+- 🤷‍♂️ Post work you can find me learning about Crypto projects or hanging out in the Metaverse
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/samsonshukla/) | [Twitter](https://twitter.com/samsonshukla) | [Instagram](https://www.instagram.com/samsonshukla/)
 
 <!---
